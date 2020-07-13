@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="StudentManager:jar">
+    <output-path>$PROJECT_DIR$/classes/artifacts/StudentManager_jar</output-path>
+    <root id="root">
+      <element id="module-output" name="StudentManager" />
+      <element id="library" level="project" name="StudentManager" />
+    </root>
+  </artifact>
+</component>
